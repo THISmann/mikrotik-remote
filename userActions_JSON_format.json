@@ -1,0 +1,13 @@
+{
+    "username": "etienne",
+    "password": "FUH1234",
+    "actions": [
+        {
+            "name": "getAirtime",
+            "description": "this script run ",
+            "scriptNumber": 0
+        }
+    ]
+} 
+
+

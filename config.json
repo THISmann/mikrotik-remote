@@ -1,0 +1,26 @@
+{
+  "db": {
+    "user": "postgres",
+    "host": "db",
+    "database": "postgres",
+    "password": "password"
+  },
+  "api": {
+    "port": 8081,
+    "virtualDir": ""
+  },
+  "webapp": {
+    "port": 8082
+  },
+  "eventLog": {
+    "path": "eventLog.log",
+    "rotationInterval": 86400,
+    "rotationStart": 5,
+    "compressAfter": 5
+  },
+  "mikrotikApi": {
+    "user": "etienne",
+    "password": "FUH1234",
+    "url": "https://192.168.1.1/rest"
+  }
+}
